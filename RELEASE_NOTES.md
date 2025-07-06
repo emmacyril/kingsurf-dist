@@ -1,8 +1,8 @@
-# KingSurf Browser v1.0.1 - Enhanced Distribution Release
+# KingSurf Browser v1.0.0 - Enhanced Distribution Release
 
-## 🎉 **Professional Multi-Platform Distribution!**
+## 🎉 **Successfully Built for All Major Platforms!**
 
-KingSurf Browser v1.0.1 introduces standardized naming conventions and enhanced distribution packages for all major desktop platforms. This release provides professional installers and improved user experience across Windows, macOS, and Linux systems.
+KingSurf Browser v1.0.0 has been successfully compiled and packaged for all major desktop platforms with standardized naming conventions and enhanced distribution packages. The browser is now ready for professional distribution across Windows, macOS, and Linux systems.
 
 ## 📦 **Available Downloads**
 
@@ -28,7 +28,7 @@ KingSurf Browser v1.0.1 introduces standardized naming conventions and enhanced 
 - **kingsurf-1.0.0-linux-arm64.AppImage** (116 MB) - Universal Linux app for ARM64
 - **kingsurf-1.0.0-linux-arm64.deb** (74 MB) - Debian/Ubuntu package for ARM64
 
-## 🆕 **What's New in v1.0.1**
+## 🆕 **What's New in v1.0.0**
 
 ### **📋 Standardized Naming Convention**
 
