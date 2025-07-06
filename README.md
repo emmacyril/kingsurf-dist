@@ -7,13 +7,13 @@
 
 A modern, secure web browser built with Electron and React
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/emmacyril/kingsurf-react/releases/latest)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/emmacyril/kingsurf-dist/releases/latest)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/emmacyril/kingsurf-react/total.svg)](https://github.com/emmacyril/kingsurf-react/releases)
+[![Downloads](https://img.shields.io/github/downloads/emmacyril/kingsurf-dist/total.svg)](https://github.com/emmacyril/kingsurf-dist/releases)
 [![Electron](https://img.shields.io/badge/electron-37.2.0-blue.svg)](https://electronjs.org/)
 [![React](https://img.shields.io/badge/react-18.3.1-blue.svg)](https://reactjs.org/)
 
-**[📥 Download Latest Release](https://github.com/emmacyril/kingsurf-react/releases/latest)**
+**[📥 Download Latest Release](https://github.com/emmacyril/kingsurf-dist/releases/latest)**
 
 </div>
 
@@ -23,22 +23,81 @@ A modern, secure web browser built with Electron and React
 
 ### 🍎 **macOS**
 
-- **Intel Macs:** [DMG](https://github.com/emmacyril/kingsurf-react/releases/download/v1.0.0/KingSurf-1.0.0.dmg) | [ZIP](https://github.com/emmacyril/kingsurf-react/releases/download/v1.0.0/KingSurf-1.0.0-mac.zip)
-- **Apple Silicon:** [DMG](https://github.com/emmacyril/kingsurf-react/releases/download/v1.0.0/KingSurf-1.0.0-arm64.dmg) | [ZIP](https://github.com/emmacyril/kingsurf-react/releases/download/v1.0.0/KingSurf-1.0.0-arm64-mac.zip)
+#### **Intel Macs (x64)**
+
+- **[DMG Installer](https://github.com/emmacyril/kingsurf-dist/releases/download/v1.0.0/kingsurf-1.0.0-mac-x64.dmg)** (117 MB)
+  - SHA256: `d97a4a99e512d6debf12629062854895520eabb18406124fada5d9e040317df6`
+
+#### **Apple Silicon (ARM64)**
+
+- **[DMG Installer](https://github.com/emmacyril/kingsurf-dist/releases/download/v1.0.0/kingsurf-1.0.0-mac-arm64.dmg)** (110 MB)
+  - SHA256: `b9afcb9647d9453261f06866ec5d21f9ca7782895e322a41a2efcf1e075d6dbb`
 
 ### 🪟 **Windows**
 
-- **x64:** [ZIP](https://github.com/emmacyril/kingsurf-react/releases/download/v1.0.0/KingSurf-1.0.0-win.zip)
-- **ARM64:** [ZIP](https://github.com/emmacyril/kingsurf-react/releases/download/v1.0.0/KingSurf-1.0.0-arm64-win.zip)
+#### **Universal Installer (Recommended)**
+
+- **[Universal Installer](https://github.com/emmacyril/kingsurf-dist/releases/download/v1.0.0/kingsurf-1.0.0-win.exe)** (176 MB)
+  - SHA256: `e170449480a236965f0849ad972a8fa043fecfb4cf9fca3d30a78103298bb27d`
+  - Supports both x64 and ARM64 architectures
+
+#### **Architecture-Specific Installers**
+
+- **[x64 Installer](https://github.com/emmacyril/kingsurf-dist/releases/download/v1.0.0/kingsurf-1.0.0-win-x64.exe)** (87.8 MB)
+  - SHA256: `ccc6ba8f39eb716a7990489dfdef01060f79439495bcb254da17600992ec0542`
+- **[ARM64 Installer](https://github.com/emmacyril/kingsurf-dist/releases/download/v1.0.0/kingsurf-1.0.0-win-arm64.exe)** (88.9 MB)
+  - SHA256: `2da5978cac3e50455c5faa4c6df8a3d4499d5b40b563c80137c0a226887efcf3`
 
 ### 🐧 **Linux**
 
-- **x64:** [AppImage](https://github.com/emmacyril/kingsurf-react/releases/download/v1.0.0/KingSurf-1.0.0.AppImage) | [DEB](https://github.com/emmacyril/kingsurf-react/releases/download/v1.0.0/kingsurf-react_1.0.0_amd64.deb)
-- **ARM64:** [AppImage](https://github.com/emmacyril/kingsurf-react/releases/download/v1.0.0/KingSurf-1.0.0-arm64.AppImage) | [DEB](https://github.com/emmacyril/kingsurf-react/releases/download/v1.0.0/kingsurf-react_1.0.0_arm64.deb)
+#### **x64 (AMD64)**
 
-**[📋 View All Downloads & Checksums](https://github.com/emmacyril/kingsurf-react/releases/latest)**
+- **[AppImage](https://github.com/emmacyril/kingsurf-dist/releases/download/v1.0.0/kingsurf-1.0.0-linux-x86_64.AppImage)** (116 MB)
+  - SHA256: `ac40c16804992ec8b0d94dff7de8c88f2278b9a983098dcf18f3b929c31899a6`
+- **[DEB Package](https://github.com/emmacyril/kingsurf-dist/releases/download/v1.0.0/kingsurf-1.0.0-linux-amd64.deb)** (79 MB)
+  - SHA256: `ce223286c3d7ec874667f95a6a108c94f1ad8ac31069a0718bc31466abfe4840`
 
-## 📸 Screenshots
+#### **ARM64**
+
+- **[AppImage](https://github.com/emmacyril/kingsurf-dist/releases/download/v1.0.0/kingsurf-1.0.0-linux-arm64.AppImage)** (116 MB)
+  - SHA256: `728e8c8c520e9042468691438d5d2ae4068fc521ded4b0e2ae9e0eb29946e504`
+- **[DEB Package](https://github.com/emmacyril/kingsurf-dist/releases/download/v1.0.0/kingsurf-1.0.0-linux-arm64.deb)** (74.1 MB)
+  - SHA256: `dc717f60d40445740eed3b8f95ce3db716e9dd105ffed2d78f4a2ae1b1e89613`
+
+**[📋 View All Downloads & Checksums](https://github.com/emmacyril/kingsurf-dist/releases/latest)**
+
+## � Installation Instructions
+
+### 🍎 **macOS Installation**
+
+1. Download the appropriate DMG file for your Mac architecture
+2. Double-click the DMG file to mount it
+3. Drag **KingSurf.app** to the Applications folder
+4. Eject the DMG and launch KingSurf from Applications
+
+### 🪟 **Windows Installation**
+
+1. Download the appropriate EXE installer for your architecture
+2. Run the installer and follow the setup wizard
+3. KingSurf will be installed and added to Start Menu
+4. Launch from Start Menu or desktop shortcut
+
+### 🐧 **Linux Installation**
+
+#### **AppImage (Recommended)**
+
+1. Download the appropriate AppImage for your architecture
+2. Make it executable: `chmod +x kingsurf-1.0.0-linux-*.AppImage`
+3. Run directly: `./kingsurf-1.0.0-linux-*.AppImage`
+
+#### **DEB Package (Debian/Ubuntu)**
+
+1. Download the appropriate DEB file for your architecture
+2. Install: `sudo dpkg -i kingsurf-1.0.0-linux-*.deb`
+3. Fix dependencies if needed: `sudo apt-get install -f`
+4. Launch from applications menu or run `kingsurf`
+
+## �📸 Screenshots
 
 <div align="center">
   <img src="kingsurf-browser.png" alt="KingSurf Browser Interface" width="100%">
