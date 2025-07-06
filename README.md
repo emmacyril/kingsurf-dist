@@ -9,9 +9,6 @@ A modern, secure web browser built with Electron and React
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/emmacyril/kingsurf-dist/releases/latest)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/emmacyril/kingsurf-dist/total.svg)](https://github.com/emmacyril/kingsurf-dist/releases)
-[![Electron](https://img.shields.io/badge/electron-37.2.0-blue.svg)](https://electronjs.org/)
-[![React](https://img.shields.io/badge/react-18.3.1-blue.svg)](https://reactjs.org/)
 
 **[📥 Download Latest Release](https://github.com/emmacyril/kingsurf-dist/releases/latest)**
 
