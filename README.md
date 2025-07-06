@@ -5,8 +5,6 @@
 
 **Rule the Web**
 
-A modern, secure web browser built with Electron and React
-
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/emmacyril/kingsurf-dist/releases/latest)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
@@ -170,12 +168,6 @@ KingSurf creates professional installer packages for all platforms:
 
 KingSurf Browser is built with modern web technologies:
 
-- **Frontend**: React 19.1.0 + TypeScript
-- **Backend**: Electron 37.2.0 (Main Process)
-- **Styling**: Tailwind CSS 3.4.17
-- **Build Tool**: Vite 5.4.19
-- **Distribution**: electron-builder
-
 ## 📚 Documentation
 
 - [Release Notes](RELEASE_NOTES.md) - Version history and changes
@@ -194,17 +186,6 @@ This repository is for distribution and documentation purposes. For feature requ
 4. **Feedback**: Share your experience and suggestions for improvement
 
 **Note**: Source code contributions are handled through our private development repository.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Built with [Electron](https://electronjs.org/)
-- UI powered by [React](https://reactjs.org/)
-- Styled with [Tailwind CSS](https://tailwindcss.com/)
-- Icons from [Lucide React](https://lucide.dev/)
 
 ## 📞 Support
 
